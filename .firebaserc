@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "ng-demo-course": {
+      "hosting": {
+        "angular-config": [
+          "ng-demo-course"
+        ]
+      }
+    }
+  }
+}
